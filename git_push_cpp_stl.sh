@@ -1,4 +1,4 @@
-echo "CPP STL repo push"
+echo "CPP STL repo push>>"
 git init 
 git add .
 git commit -m "first commit"
