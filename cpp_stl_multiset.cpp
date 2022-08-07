@@ -76,6 +76,15 @@ void _multimap_ops(){
 
     cout<<"Size of the multiset "<<m.size()<<endl;
 
+    // Some other functionalities
+    // cout<<"First Element in the multimap: "<<*m.cbegin()<<endl;
+    // cout<<"Last theoretical Element in the multimap: "<<*m.cend()<<endl;
+    // cout<<"First Element in the reversed multimap: "<<*m.rbegin()<<endl;
+    // cout<<"Last Element in the reversed multimap: "<<*m.rbegin()<<endl;
+    // m.empty() -> Return if the multimap is empty or not
+
+
+
 }
 
 
